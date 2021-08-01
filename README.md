@@ -1,6 +1,6 @@
-# Training a NN to 99% accuracy on MNIST in less than a second
+# Training a NN to 99% accuracy on MNIST in 0.76 seconds
 
-A quick study on how fast you can train MNIST to 99% accuracy with a single laptop. Our answer is 0.76 seconds, reaching 99% accuracy in just one epoch of traiing. This is more than 200 times faster than the default training code from Pytorch. To see the final results, check 7_Final_0s76.ipynb. If you're interested in the process read on below for a step by step description of changes made. 
+A quick study on how fast you can reach 99% accuracy on MNIST with a single laptop. Our answer is 0.76 seconds, reaching 99% accuracy in just one epoch of training. This is more than 200 times faster than the default training code from Pytorch. To see the final results, check 7_Final_0s76.ipynb. If you're interested in the process read on below for a step by step description of changes made. 
 
 The repo is organized into jupyter notebooks, showing a chronological order of changes required to go from 
 initial Pytorch tutorial that trains for 3 minutes to less than a second of training time
